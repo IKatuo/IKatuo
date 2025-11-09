@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yuqi Sun
 
-- 🔭 I'm currently working on **Modeling Spatial Omics Data for Tumor Research; Genetic Epidemiology for Endocrine Disease; Cancer Neuroscience**
+- 🔭 I'm currently working on **Spatial Omics; Genetic Epidemiology; Cancer Neuroscience**
 
 - 🌱 I'm currently learning **R, Python, GraphQL and TypeScript**
 
