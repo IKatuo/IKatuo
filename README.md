@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ikatuo-s@sjtu.edu.cn**
 
-- ⚡ Fun fact **bu yao xue yi**
+- ⚡ Wanna learn more about me? **Medical student & independent illlustrator & CEO of Xihong Entertainment Co., Ltd **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
