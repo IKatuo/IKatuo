@@ -1,12 +1,13 @@
 # Hi 👋, I'm Yuqi Sun
 
-- 🔭 I'm currently working on **Statistics & Machine Learning; Spatial Omics; Genetic Epidemiology; Cancer Neuroscience**
+- 🔭 I'm interested in **Statistics & Machine Learning; Spatial Omics; Genetic Epidemiology; Cancer Neuroscience**
 
 - 🌱 I'm currently learning **R, Python, GraphQL and TypeScript**
 
-- 📫 How to reach me **ikatuo-s@sjtu.edu.cn**
+- 📫 Reach me at **ikatuo-s@sjtu.edu.cn**
 
-- ⚡ Wanna learn more about me? **Medical student & independent illlustrator & CEO of Xihong Entertainment Co., Ltd **
+- ⚡ Wanna learn more about me? Check out my personal page : **ikatuo.io**
+- Nice to meet you! I am a **Medical student & independent illlustrator & CEO of Xihong Entertainment Co., Ltd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
