@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **ikatuo-s@sjtu.edu.cn**
 
-- ⚡ Wanna learn more about me? Check out my personal page : **ikatuo.io**
+- ⚡ Check out my personal page : **ikatuo.io**
 - ⭐️ Nice to meet you! 
 
 <h3 align="left">Connect with me:</h3>
