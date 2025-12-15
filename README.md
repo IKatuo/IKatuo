@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yuqi Sun
 
-- 🔭 I'm interested in **Statistics & Machine Learning; Spatial Omics; Genetic Epidemiology; Cancer Neuroscience**
+- 🔭 I'm interested in **Human Genetics & Genomics; Cancer; Neuroscience**
 
 - 🌱 I'm currently learning **R, Python, GraphQL and TypeScript**
 
